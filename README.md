@@ -1,10 +1,10 @@
 # kafka_food_delivery
-Sample Kafka food deliver app
+Sample Kafka food delivery app
 
-This code to go with the article at [vignesh.page](https://vignesh.page/posts/kakfa)
+This code to go with the article at [vignesh.page](https://vignesh.page/posts/kafka)
 
 
-To run Kafka and Zookeeper locally, we presume docker and docker compose is intalled.
+To run Kafka and Zookeeper locally, we presume docker and docker compose is installed.
 
 ```bash
 docker-compose -f docker-compose.yaml up
